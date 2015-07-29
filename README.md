@@ -1,9 +1,4 @@
----
-language: none
-tags: javascript object notation, json, ajax, asynchronious, requests
-type: lecture
-resources: 0
----
+
 
 ## JSON & AJAX ~ 62min
 
