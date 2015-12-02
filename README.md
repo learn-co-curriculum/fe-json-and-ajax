@@ -8,6 +8,6 @@ These videos are also available as a single [continuous playlist from the link h
 
 [Slides - JSON](https://docs.google.com/presentation/d/1fF2dwxz5Aq55UGbqc2buse2-aHO4-M4fQQr8Er30f4c/edit?usp=sharing)
 [Slides - AJAX](https://docs.google.com/presentation/d/1QF6JQnmS9euAeWnjY576TFGJ6WGA2RXnhLbUfLFT3bA/edit?usp=sharing)
-<a href='https://learn.co/lessons/fe-json-and-ajax' data-visibility='hidden'>View this lesson on Learn.co</a>
+
 
 <a href='https://learn.co/lessons/fe-json-and-ajax' data-visibility='hidden'>View this lesson on Learn.co</a>
