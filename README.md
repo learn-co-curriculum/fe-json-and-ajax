@@ -10,4 +10,4 @@ These videos are also available as a single [continuous playlist from the link h
 [Slides - AJAX](https://docs.google.com/presentation/d/1QF6JQnmS9euAeWnjY576TFGJ6WGA2RXnhLbUfLFT3bA/edit?usp=sharing)
 
 
-<a href='https://learn.co/lessons/fe-json-and-ajax' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-json-and-ajax' title='JSON & AJAX ~ 62min'>JSON & AJAX ~ 62min</a> on Learn.co and start learning to code for free.</p>
